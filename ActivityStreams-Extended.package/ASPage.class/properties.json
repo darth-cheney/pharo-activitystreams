@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EricGade 1/8/2019 15:37",
+	"super" : "ASDocument",
+	"category" : "ActivityStreams-Extended",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ASPage",
+	"type" : "normal"
+}

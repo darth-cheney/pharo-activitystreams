@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EricGade 1/8/2019 15:41",
+	"super" : "ASLink",
+	"category" : "ActivityStreams-Extended",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ASMention",
+	"type" : "normal"
+}
