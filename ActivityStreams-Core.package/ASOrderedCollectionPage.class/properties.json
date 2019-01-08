@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "EricGade 1/8/2019 13:58",
+	"super" : "ASOrderedCollection",
+	"category" : "ActivityStreams-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startIndex"
+	],
+	"name" : "ASOrderedCollectionPage",
+	"type" : "normal"
+}

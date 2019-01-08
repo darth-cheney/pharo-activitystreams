@@ -1,0 +1,3 @@
+accessing
+partOf
+	^ partOf

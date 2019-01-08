@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EricGade 1/8/2019 14:38",
+	"super" : "ASReject",
+	"category" : "ActivityStreams-Activities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ASTentativeReject",
+	"type" : "normal"
+}

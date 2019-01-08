@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "EricGade 1/8/2019 13:49",
+	"super" : "ASObject",
+	"category" : "ActivityStreams-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"totalItems",
+		"current",
+		"first",
+		"last",
+		"items"
+	],
+	"name" : "ASCollection",
+	"type" : "normal"
+}

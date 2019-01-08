@@ -1,0 +1,3 @@
+testing
+isASActivity
+	^ true

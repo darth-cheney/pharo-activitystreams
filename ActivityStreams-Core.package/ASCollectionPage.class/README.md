@@ -1,0 +1,1 @@
+I represent distinct paginated subsets of items in an ASCollection object (from ActivityStreams Collections). See https://www.w3.org/ns/activitystreams#CollectionPage for more information.

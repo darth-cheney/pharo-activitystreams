@@ -1,0 +1,1 @@
+I am an ActivityStream TentativeAccept Activity which indicates that the given acceptance is only tentative. See ASAccept and https://www.w3.org/ns/activitystreams#TentativeAccept for more information.

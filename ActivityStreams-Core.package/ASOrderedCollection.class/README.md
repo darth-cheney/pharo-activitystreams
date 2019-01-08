@@ -1,0 +1,1 @@
+I am a subtype of ActivityStreams Collection whose members are always assumed to be strictly ordered.

@@ -1,0 +1,1 @@
+I am an ActivityStream Activity object indicating that the actor is offering the object. If set, the target indicates the entity to which the object is being offered. See https://www.w3.org/ns/activitystreams#Offer for more information.

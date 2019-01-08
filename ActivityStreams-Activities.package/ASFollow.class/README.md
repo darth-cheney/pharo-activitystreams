@@ -1,0 +1,1 @@
+I am an ActivityStream Activity object that indicates  the actor is "following" the object. Here following is defined in the sense typically used by social networking systems. The target and origin usually have no defined meaning. See https://www.w3.org/ns/activitystreams#Follow for more information.

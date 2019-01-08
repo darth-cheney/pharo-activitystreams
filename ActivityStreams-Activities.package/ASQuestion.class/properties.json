@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "EricGade 1/8/2019 14:57",
+	"super" : "ASIntransitiveActivity",
+	"category" : "ActivityStreams-Activities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oneOf",
+		"anyOf",
+		"closed"
+	],
+	"name" : "ASQuestion",
+	"type" : "normal"
+}
