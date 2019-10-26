@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EricGade 10/26/2019 17:53",
+	"super" : "Object",
+	"category" : "ActivityStreams-Core-Parsing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"resultDict",
+		"results"
+	],
+	"name" : "ASDefinitionParser",
+	"type" : "normal"
+}
