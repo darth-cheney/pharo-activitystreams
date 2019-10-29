@@ -7,4 +7,4 @@ loadObjectTypeDefinitionsFrom: aSoup
 	table := self findObjectTypeDefTableIn: aSoup.
 	tableBodies := self findTableBodiesIn: table.
 	tableBodies do: [ :tbody |
-		self loadTypeDefinitionFrom: tbody ].
+		self loadTypeDefinitionFrom: tbody category: 'Extended' ].

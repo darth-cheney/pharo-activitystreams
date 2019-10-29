@@ -1,1 +1,0 @@
-I am an ActivityStream Activity object indicating that the actor is flagging the object. Most platforms use this for reporting content as inappropriate. See https://www.w3.org/ns/activitystreams#Flag for more information

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ActStreamObject",
+	"category" : "ActivityStreams-Core-Extended",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"describes"
+	],
+	"name" : "ActStreamProfile",
+	"type" : "normal"
+}

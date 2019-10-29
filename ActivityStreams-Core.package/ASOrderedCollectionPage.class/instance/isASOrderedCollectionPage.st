@@ -1,3 +1,0 @@
-testing
-isASOrderedCollectionPage
-	^ true

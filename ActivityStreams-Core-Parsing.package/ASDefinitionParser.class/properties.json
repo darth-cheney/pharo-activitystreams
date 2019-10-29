@@ -1,10 +1,12 @@
 {
-	"commentStamp" : "EricGade 10/26/2019 17:53",
+	"commentStamp" : "EricGade 10/29/2019 18:11",
 	"super" : "Object",
 	"category" : "ActivityStreams-Core-Parsing",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"CachedComments"
+	],
 	"instvars" : [
 		"resultDict",
 		"results"

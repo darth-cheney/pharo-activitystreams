@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ActStreamCollection",
+	"category" : "ActivityStreams-Core-Objects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"partOf",
+		"next",
+		"prev"
+	],
+	"name" : "ActStreamCollectionPage",
+	"type" : "normal"
+}

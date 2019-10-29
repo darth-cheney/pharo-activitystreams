@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ActStreamObject",
+	"category" : "ActivityStreams-Core-Extended",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"accuracy",
+		"altitude",
+		"latitude",
+		"longitude",
+		"radius",
+		"units"
+	],
+	"name" : "ActStreamPlace",
+	"type" : "normal"
+}

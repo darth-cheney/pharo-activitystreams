@@ -1,1 +1,0 @@
-I am an ActivityStream Activity object indicating that the actor has moved the object from the origin to the target. If origin or target are not set, either can be determined by the context. See https://www.w3.org/ns/activitystreams#Move for more information.

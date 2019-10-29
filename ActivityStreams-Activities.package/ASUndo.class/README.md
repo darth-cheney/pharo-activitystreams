@@ -1,1 +1,0 @@
-I am an ActivityStream Activity object indicating the actor is undoing the object. In most cases, the object will be some other Activity (ASActivity or subclass) describing some previously performed action. The target and origin typically have no meaning for this activity. See https://www.w3.org/ns/activitystreams#Undo for more information.

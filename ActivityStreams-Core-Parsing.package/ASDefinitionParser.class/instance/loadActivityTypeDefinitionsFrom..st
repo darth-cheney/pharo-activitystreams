@@ -7,4 +7,4 @@ loadActivityTypeDefinitionsFrom: aSoup
 	table := self findActivityTypeDefTableIn: aSoup.
 	tableBodies := self findTableBodiesIn: table.
 	tableBodies do: [ :tbody |
-		self loadTypeDefinitionFrom: tbody ].
+		self loadTypeDefinitionFrom: tbody category: 'Activity' ].

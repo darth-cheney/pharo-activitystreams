@@ -1,3 +1,0 @@
-testing
-isASObject
-	^ true

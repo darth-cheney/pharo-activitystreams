@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ActStreamIntransitiveActivity",
+	"category" : "ActivityStreams-Core-Activity",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oneOf",
+		"anyOf",
+		"closed"
+	],
+	"name" : "ActStreamQuestion",
+	"type" : "normal"
+}

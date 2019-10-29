@@ -1,3 +1,0 @@
-accessing
-altitude
-	^ altitude

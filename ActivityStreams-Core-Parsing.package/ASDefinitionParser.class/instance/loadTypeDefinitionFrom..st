@@ -9,6 +9,7 @@ loadTypeDefinitionFrom: aTBodySoup
 		at: #type put: (self findTypeNameIn: aTBodySoup);
 		at: #extends put: (self findTypeExtendsIn: aTBodySoup);
 		at: #notes put: (self findTypeNotesIn: aTBodySoup);
-		at: #properties put: (self findTypePropertiesIn: aTBodySoup).
+		at: #properties put: (self findTypePropertiesIn: aTBodySoup);
+		at: #category put: 'Actors'.
 	resultDict at: (definition at: #type) put: definition.
 	results add: definition.
