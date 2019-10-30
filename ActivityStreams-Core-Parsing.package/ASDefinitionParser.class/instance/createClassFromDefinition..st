@@ -14,5 +14,7 @@ createClassFromDefinition: aDefinition
 				classVariableNames: ''
 				package: 'ActivityStreams-Core-',(aDefinition at: #category).
 	self
-		compileAccessorsFor: cls using: (aDefinition).
+		compileAccessorsFor: cls using: (aDefinition);
+		createMappedInstVars: (aDefinition at: #properties) on: cls;
+		createJsonMappingFor: cls with: aDefinition.
 	cls comment: (self createCommentFor: type with: ((aDefinition at: #notes) asString)).
