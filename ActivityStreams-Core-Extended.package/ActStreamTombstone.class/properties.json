@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ActStreamObject",
+	"category" : "ActivityStreams-Core-Extended",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"formerType",
+		"deleted"
+	],
+	"name" : "ActStreamTombstone",
+	"type" : "normal"
+}

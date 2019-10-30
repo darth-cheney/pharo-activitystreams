@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "ActivityStreams-Core-Objects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"href",
+		"rel",
+		"mediaType",
+		"name",
+		"hreflang",
+		"height",
+		"width",
+		"preview"
+	],
+	"name" : "ActStreamLink",
+	"type" : "normal"
+}

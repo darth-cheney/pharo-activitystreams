@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ActStreamIgnore",
+	"category" : "ActivityStreams-Core-Activity",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ActStreamBlock",
+	"type" : "normal"
+}
